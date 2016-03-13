@@ -78,4 +78,8 @@
             <url>http://repo.spring.io/milestone</url>
         </pluginRepository>
     </pluginRepositories>
+    <organization>
+    	<name>VRSoft</name>
+    	<url>www.vritb.de</url>
+    </organization>
 </project>
